@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=WILO
+Comment=WILO P2P Cryptocurrency
+Exec=wilo-qt %u
+Terminal=false
+Type=Application
+Icon=wilo128
+MimeType=x-scheme-handler/wilo;
+Categories=Office;Finance;
+Name[en_US]=wilo-qt.desktop

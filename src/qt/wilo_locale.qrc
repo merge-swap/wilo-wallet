@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/wilo_bg.qm</file>
+        <file alias="de">locale/wilo_de.qm</file>
+        <file alias="en">locale/wilo_en.qm</file>
+        <file alias="es">locale/wilo_es.qm</file>
+        <file alias="fi">locale/wilo_fi.qm</file>
+        <file alias="fr">locale/wilo_fr.qm</file>
+        <file alias="it">locale/wilo_it.qm</file>
+        <file alias="ja">locale/wilo_ja.qm</file>
+        <file alias="pl">locale/wilo_pl.qm</file>
+        <file alias="pt">locale/wilo_pt.qm</file>
+        <file alias="ru">locale/wilo_ru.qm</file>
+        <file alias="sk">locale/wilo_sk.qm</file>
+        <file alias="sv">locale/wilo_sv.qm</file>
+        <file alias="vi">locale/wilo_vi.qm</file>
+        <file alias="zh_CN">locale/wilo_zh_CN.qm</file>
+        <file alias="zh_TW">locale/wilo_zh_TW.qm</file>
+    </qresource>
+</RCC>
