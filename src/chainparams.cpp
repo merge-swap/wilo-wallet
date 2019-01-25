@@ -137,6 +137,17 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0x2da38d94a9ee1537e3bc7a5b4488d1548c9992c592b964b7cc2852dc1ccc37fd"));
         
 
+        //Merge Seed for wallet Swap
+        vSeeds.push_back(CDNSSeedData("Merge Seed 1", "202.182.111.76"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 2", "245.63.89.178"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 3", "149.28.193.163"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 4", "149.28.192.223"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 5", "52.207.118.231"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 6", "144.202.120.126"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 7", "149.28.194.133"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 8", "45.77.5.12"));
+
+
         vSeeds.push_back(CDNSSeedData("one.wilo.site", "one.wilo.site"));
         vSeeds.push_back(CDNSSeedData("two.wilo.site", "two.wilo.site"));
         //vFixedSeeds.clear();
