@@ -29,6 +29,6 @@ RUN deps="alpine-sdk curl autoconf automake libtool boost-dev openssl-dev libeve
   rm -r /opt/db/docs /var/cache/apk/* /wallet /db-$DB_VERSION 
 
 VOLUME ["/home/wallet/.wilo"]
-EXPOSE 5520/tcp 
+EXPOSE 23998/tcp 
 USER wallet 
 CMD wilod -printtoconsole
