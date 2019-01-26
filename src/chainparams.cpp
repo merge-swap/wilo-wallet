@@ -138,14 +138,14 @@ public:
         
 
         //Merge Seed for wallet Swap
-        vSeeds.push_back(CDNSSeedData("Merge Seed 1", "202.182.111.76"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 2", "245.63.89.178"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 3", "149.28.193.163"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 4", "149.28.192.223"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 5", "52.207.118.231"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 6", "144.202.120.126"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 7", "149.28.194.133"));
-        vSeeds.push_back(CDNSSeedData("Merge Seed 8", "45.77.5.12"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 1", "108.61.123.203"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 2", "138.68.99.188"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 3", "140.82.46.149"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 4", "144.202.7.127"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 5", "149.28.180.70"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 6", "173.255.237.244"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 7", "178.62.93.14"));
+        vSeeds.push_back(CDNSSeedData("Merge Seed 8", "181.40.66.17"));
 
 
         vSeeds.push_back(CDNSSeedData("one.wilo.site", "one.wilo.site"));
